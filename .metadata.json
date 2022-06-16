@@ -1,0 +1,18 @@
+[
+  {
+    "package": "dracor",
+    "oncran": true
+  },
+  {
+    "package": "nabor",
+    "oncran": true
+  },
+  {
+    "package": "readbitmap",
+    "oncran": true
+  },
+  {
+    "package": "readobj",
+    "oncran": true
+  }
+]
