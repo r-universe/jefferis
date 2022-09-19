@@ -1,9 +1,5 @@
 [
   {
-    "package": "dracor",
-    "oncran": true
-  },
-  {
     "package": "nabor",
     "oncran": true
   },
