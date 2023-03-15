@@ -1,6 +1,6 @@
 [
   {
-    "package": "readobj",
+    "package": "nabor",
     "oncran": true
   },
   {
@@ -8,7 +8,7 @@
     "oncran": true
   },
   {
-    "package": "nabor",
+    "package": "readobj",
     "oncran": true
   }
 ]

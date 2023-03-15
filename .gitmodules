@@ -3,9 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "readobj"]
-	path = readobj
-	url = https://github.com/jefferis/readobj
+[submodule "nabor"]
+	path = nabor
+	url = https://github.com/jefferis/nabor
 	shallow = true
 	registered = true
 [submodule "readbitmap"]
@@ -13,8 +13,8 @@
 	url = https://github.com/jefferis/readbitmap
 	shallow = true
 	registered = true
-[submodule "nabor"]
-	path = nabor
-	url = https://github.com/jefferis/nabor
+[submodule "readobj"]
+	path = readobj
+	url = https://github.com/jefferis/readobj
 	shallow = true
 	registered = true
