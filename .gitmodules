@@ -3,6 +3,16 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "bmp"]
+	path = bmp
+	url = https://github.com/jefferis/bmp
+	shallow = true
+	registered = true
+[submodule "dendroextras"]
+	path = dendroextras
+	url = https://github.com/jefferis/dendroextras
+	shallow = true
+	registered = true
 [submodule "nabor"]
 	path = nabor
 	url = https://github.com/jefferis/nabor

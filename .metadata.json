@@ -1,5 +1,13 @@
 [
   {
+    "package": "bmp",
+    "oncran": true
+  },
+  {
+    "package": "dendroextras",
+    "oncran": true
+  },
+  {
     "package": "nabor",
     "oncran": true
   },
