@@ -5,6 +5,9 @@
 [submodule "bmp"]
 	path = bmp
 	url = https://github.com/jefferis/bmp
+[submodule "colorRamps"]
+	path = colorRamps
+	url = https://github.com/cran/colorRamps
 [submodule "dendroextras"]
 	path = dendroextras
 	url = https://github.com/jefferis/dendroextras
