@@ -8,6 +8,9 @@
 [submodule "bmp"]
 	path = bmp
 	url = https://github.com/jefferis/bmp
+[submodule "cmtkr"]
+	path = cmtkr
+	url = https://github.com/jefferis/cmtkr
 [submodule "colorRamps"]
 	path = colorRamps
 	url = https://github.com/cran/colorRamps
